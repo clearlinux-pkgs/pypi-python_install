@@ -4,7 +4,7 @@
 #
 Name     : pypi-python_install
 Version  : 0.0.3
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/11/7e/030d96eab01667d68a11be65ce01a62a9e4b0c3003d202d99a75d93fe824/python-install-0.0.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/11/7e/030d96eab01667d68a11be65ce01a62a9e4b0c3003d202d99a75d93fe824/python-install-0.0.3.tar.gz
 Summary  : UNKNOWN
@@ -14,9 +14,6 @@ Requires: pypi-python_install-license = %{version}-%{release}
 Requires: pypi-python_install-python = %{version}-%{release}
 Requires: pypi-python_install-python3 = %{version}-%{release}
 BuildRequires : buildreq-distutils3
-Provides: python-install
-Provides: python-install-python
-Provides: python-install-python3
 BuildRequires : pypi(setuptools)
 BuildRequires : pypi(wheel)
 
@@ -62,7 +59,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1641483513
+export SOURCE_DATE_EPOCH=1651170173
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib

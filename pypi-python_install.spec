@@ -4,7 +4,7 @@
 #
 Name     : pypi-python_install
 Version  : 0.0.3
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/11/7e/030d96eab01667d68a11be65ce01a62a9e4b0c3003d202d99a75d93fe824/python-install-0.0.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/11/7e/030d96eab01667d68a11be65ce01a62a9e4b0c3003d202d99a75d93fe824/python-install-0.0.3.tar.gz
 Summary  : UNKNOWN
@@ -62,7 +62,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1656380327
+export SOURCE_DATE_EPOCH=1656401869
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib

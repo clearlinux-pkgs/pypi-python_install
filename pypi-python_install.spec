@@ -7,7 +7,7 @@
 #
 Name     : pypi-python_install
 Version  : 0.0.3
-Release  : 17
+Release  : 18
 URL      : https://files.pythonhosted.org/packages/11/7e/030d96eab01667d68a11be65ce01a62a9e4b0c3003d202d99a75d93fe824/python-install-0.0.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/11/7e/030d96eab01667d68a11be65ce01a62a9e4b0c3003d202d99a75d93fe824/python-install-0.0.3.tar.gz
 Summary  : UNKNOWN
